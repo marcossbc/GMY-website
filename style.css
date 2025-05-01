@@ -580,20 +580,20 @@
 }
 
 /* forms */
-
+/* 
 .containers {
     display: flex;
     height: 50%;
     margin-inline: auto ;
     /* gap: -6rem; */
    
-  }
+  } */
   
 .map {
     display: flex;
     flex: 1;
    width: 100%;
-   /* height: calc(70vh - 4.5rem); */
+   height: calc(70vh - 4.5rem);
    /* background-color: #161414 ; */
    margin-inline: 4rem;
    margin-top: 3rem;
