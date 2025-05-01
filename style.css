@@ -814,6 +814,14 @@
     padding-inline: 1rem;
    }
 
+   .containers {
+    flex-direction: column;
+   }
+
+   .map {
+    margin-right: 4rem;
+   }
+
 
 
 
