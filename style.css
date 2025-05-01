@@ -580,14 +580,14 @@
 }
 
 /* forms */
-/* 
+
 .containers {
     display: flex;
-    height: 50%;
+    height: 40%;
     margin-inline: auto ;
     /* gap: -6rem; */
    
-  } */
+  }
   
 .map {
     display: flex;
