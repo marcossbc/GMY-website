@@ -587,7 +587,7 @@
     margin-inline: auto ;
     background: url('images/cta-bg.jpg');
     margin-top: 2rem;
-    
+
    
   }
   
@@ -598,9 +598,9 @@
    height: calc(70vh - 4.5rem);
    /* background-color: #161414 ; */
    margin-inline: 4rem;
-   margin-top: 3rem;
+   /* margin-top: 3rem; */
    padding: 1rem;
-   align-items: left;
+   /* align-items: left; */
    justify-content: center;
     
   }
@@ -610,7 +610,7 @@
     background-color: #1e2a33;
     display: flex;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     background: url('images/cta-bg.jpg');
     margin-top: 2rem;
   }
@@ -619,7 +619,8 @@
     background-color: white;
     padding: 20px;
     border-radius: 5px;
-    width: 19rem;
+    /* width: 19rem; */
+    
 
 
   }
