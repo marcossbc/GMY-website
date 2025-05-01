@@ -585,7 +585,9 @@
     display: flex;
     height: 50%;
     margin-inline: auto ;
-    /* gap: -6rem; */
+    background: url('images/cta-bg.jpg');
+    margin-top: 2rem;
+    
    
   }
   
