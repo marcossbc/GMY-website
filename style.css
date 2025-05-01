@@ -583,7 +583,7 @@
 
 .containers {
     display: flex;
-    height: 40%;
+    height: 50%;
     margin-inline: auto ;
     /* gap: -6rem; */
    
